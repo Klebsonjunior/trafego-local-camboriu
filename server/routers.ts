@@ -24,7 +24,7 @@ export const appRouter = router({
         name: z.string().trim().min(2).max(160),
         phone: z.string().trim().min(8).max(40),
         business: z.string().trim().min(2).max(180),
-        city: z.string().trim().min(2).max(160),
+        city: z.string().trim().max(160).optional(),
         invests: z.string().trim().min(2).max(120),
         objective: z.string().trim().min(2).max(160),
         budget: z.string().trim().min(2).max(120),
@@ -40,6 +40,7 @@ export const appRouter = router({
       .mutation(async ({ input }) => {
         const lead = await createLead({
           ...input,
+          city: input.city ?? "",
           source: input.source || "kriaat-trafego-pago",
           consent: 1,
           createdAt: new Date(input.createdAt),

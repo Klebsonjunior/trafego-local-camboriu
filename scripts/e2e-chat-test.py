@@ -76,11 +76,11 @@ script = r"""
     option?.click();
     return Boolean(option);
   };
-  report.questions.push({ step: 4, label: document.querySelector(".chat-question h2")?.textContent?.trim(), advanced: setInput("Camboriú") });
+  report.questions.push({ step: 4, label: document.querySelector(".chat-question h2")?.textContent?.trim(), advanced: choose("Ainda não") });
   await wait(100);
-  report.questions.push({ step: 5, label: document.querySelector(".chat-question h2")?.textContent?.trim(), advanced: choose("Ainda não") });
+  report.questions.push({ step: 5, label: document.querySelector(".chat-question h2")?.textContent?.trim(), advanced: choose("Receber mais conversas") });
   await wait(100);
-  report.questions.push({ step: 6, label: document.querySelector(".chat-question h2")?.textContent?.trim(), advanced: choose("Receber mais conversas") });
+  report.questions.push({ step: 6, label: document.querySelector(".chat-question h2")?.textContent?.trim(), advanced: choose("Até R$ 1.000") });
   await wait(100);
   report.questions.push({ step: 7, label: document.querySelector(".chat-question h2")?.textContent?.trim(), advanced: false });
   report.consentBlocked = [...document.querySelectorAll(".chat-options button")].every((button) => button.disabled);
