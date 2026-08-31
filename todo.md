@@ -81,3 +81,18 @@
 - [x] Resolver ou explicar o erro de runtime relacionado a `dotenv` e repetir a validação final; o log era histórico e o servidor atual iniciou normalmente após a instalação.
 - [x] Salvar novo checkpoint e atualizar o GitHub com a versão enxuta validada.
 - [x] Reexecutar check, testes, build e teste funcional do CTA/formulário após a checagem do runtime do `dotenv`.
+
+
+## Equilíbrio entre objetividade e persuasão
+
+- [x] Criar uma abertura que reconheça a dor e gere identificação imediata.
+- [x] Explicar por que bons negócios podem vender menos do que poderiam sem presença e comunicação consistentes.
+- [x] Apresentar a solução como um caminho claro para ser encontrado, gerar oportunidades e vender mais.
+- [x] Inserir sinais de autoridade e método sem inventar depoimentos, avaliações ou resultados.
+- [x] Manter a página compacta, com CTA dominante e formulário como próximo passo.
+- [x] Validar a copy em desktop e mobile, além do formulário e da build.
+- [ ] Salvar checkpoint e atualizar o repositório GitHub.
+
+- [x] Validar visualmente a versão persuasiva em mobile após a última reescrita da copy.
+- [x] Reexecutar o teste funcional do CTA e do formulário após a última revisão da copy.
+- [ ] Salvar checkpoint e atualizar o GitHub depois da validação final da versão persuasiva.
