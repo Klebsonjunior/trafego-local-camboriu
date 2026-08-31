@@ -96,3 +96,19 @@
 - [x] Validar visualmente a versão persuasiva em mobile após a última reescrita da copy.
 - [x] Reexecutar o teste funcional do CTA e do formulário após a última revisão da copy.
 - [x] Salvar checkpoint e atualizar o GitHub depois da validação final da versão persuasiva.
+
+
+## Realinhamento fiel ao guia estratégico
+
+- [x] Reler o PDF estratégico e extrair a proposta de produto, público, dores, promessa e ofertas.
+- [x] Comparar a copy atual com os pontos explícitos do guia e identificar divergências.
+- [x] Reescrever a landing page usando a linguagem e a estrutura estratégica do PDF.
+- [x] Manter a página clara e objetiva, sem transformar a estratégia em uma narrativa genérica.
+- [x] Validar se a oferta apresentada corresponde ao produto descrito no PDF.
+- [x] Validar build, responsividade e formulário de lead.
+- [ ] Salvar checkpoint e atualizar o repositório GitHub.
+
+- [x] Remover o CTA repetido da seção final e manter uma única ação de conversão na página.
+- [x] Reexecutar o teste funcional confirmando um único CTA e o formulário intacto.
+- [x] Validar visualmente em mobile a versão final realinhada ao PDF após a remoção do CTA repetido.
+- [x] Marcar a checagem de responsividade da versão final realinhada ao PDF após a validação mobile.
