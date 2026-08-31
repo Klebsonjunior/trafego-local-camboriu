@@ -41,8 +41,7 @@ script = r"""
   const buttons = [...document.querySelectorAll("button")].filter((button) => {
     const text = button.textContent?.trim() || "";
     return [
-      "Quero anunciar", "Quero atrair mais clientes", "Falar sobre meu negócio",
-      "Quero saber se é para mim", "Quero entender meu cenário", "Abrir diagnóstico rápido"
+      "Quero vender mais"
     ].some((label) => text.includes(label));
   });
   for (const button of buttons) {
@@ -53,7 +52,7 @@ script = r"""
     document.querySelector(".chat-close")?.click();
     await wait(80);
   }
-  const firstCta = [...document.querySelectorAll("button")].find((button) => button.textContent?.includes("Quero atrair mais clientes"));
+  const firstCta = [...document.querySelectorAll("button")].find((button) => button.textContent?.includes("Quero vender mais"));
   firstCta?.click();
   await wait(120);
   const setInput = (value) => {

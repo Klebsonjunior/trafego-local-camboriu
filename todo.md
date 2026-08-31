@@ -48,3 +48,18 @@
 - [x] Salvar checkpoint e atualizar o repositório GitHub após a remoção.
 - [x] Salvar um novo checkpoint contendo a versão sem referências geográficas.
 - [x] Atualizar o repositório GitHub com o commit/checkpoint da versão sem referências geográficas.
+
+
+## Nova direção: vender a solução da dor
+
+- [x] Reescrever o hero para começar pela dor do cliente e pela transformação desejada.
+- [x] Apresentar mais vendas, mais clientes, presença digital e alcance como resultados da solução.
+- [x] Deixar tráfego pago como meio, sem tratá-lo como a oferta principal.
+- [x] Encurtar a jornada visual e textual até o botão do formulário.
+- [x] Reduzir menções técnicas, preços e detalhes de serviço que desviem o foco da dor.
+- [x] Validar copy, CTA único, formulário e responsividade.
+- [ ] Salvar checkpoint e atualizar o repositório GitHub.
+
+- [x] Unificar todos os CTAs visíveis em uma única mensagem principal, mantendo todos apontando para o mesmo formulário.
+- [x] Reexecutar a validação funcional dos CTAs após a unificação.
+- [ ] Salvar checkpoint e sincronizar o GitHub depois da versão com CTA unificado.
