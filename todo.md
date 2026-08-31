@@ -46,5 +46,5 @@
 - [x] Ajustar campos e textos do formulário para não exigir cidade ou região.
 - [x] Validar a ausência de referências geográficas na página final.
 - [x] Salvar checkpoint e atualizar o repositório GitHub após a remoção.
-- [ ] Salvar um novo checkpoint contendo a versão sem referências geográficas.
-- [ ] Atualizar o repositório GitHub com o commit/checkpoint da versão sem referências geográficas.
+- [x] Salvar um novo checkpoint contendo a versão sem referências geográficas.
+- [x] Atualizar o repositório GitHub com o commit/checkpoint da versão sem referências geográficas.
