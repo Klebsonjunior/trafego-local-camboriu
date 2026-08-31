@@ -82,6 +82,7 @@ script = r"""
   report.questions.push({ step: 6, label: document.querySelector(".chat-question h2")?.textContent?.trim(), advanced: choose("Até R$ 1.000") });
   await wait(100);
   report.questions.push({ step: 7, label: document.querySelector(".chat-question h2")?.textContent?.trim(), advanced: false });
+  report.singleCta = buttons.length === 1;
   report.consentBlocked = [...document.querySelectorAll(".chat-options button")].every((button) => button.disabled);
   report.finalState = document.querySelector(".chat-success") ? "submitted" : "awaiting-consent";
   document.querySelector(".chat-close")?.click();

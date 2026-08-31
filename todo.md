@@ -65,3 +65,19 @@
 - [x] Salvar checkpoint e sincronizar o GitHub depois da versão com CTA unificado.
 - [x] Enviar a versão orientada à dor com CTA unificado para a branch main do GitHub e confirmar o commit remoto.
 - [x] Verificar via GitHub que o commit remoto corresponde ao checkpoint com CTA unificado.
+
+
+## Enxugamento da landing page
+
+- [x] Reduzir a página a uma tela principal de conversão.
+- [x] Manter somente headline da dor, explicação curta da solução e CTA.
+- [x] Remover cards, FAQ, seção de planos, textos secundários e CTAs repetidos.
+- [x] Fazer o CTA principal abrir diretamente o formulário conversacional.
+- [x] Garantir copy curta, clara e objetiva em desktop e mobile.
+- [x] Validar build, formulário e responsividade.
+- [ ] Salvar checkpoint e atualizar o repositório GitHub.
+
+- [x] Validar visualmente a versão enxuta em desktop após as últimas remoções.
+- [x] Resolver ou explicar o erro de runtime relacionado a `dotenv` e repetir a validação final; o log era histórico e o servidor atual iniciou normalmente após a instalação.
+- [ ] Salvar novo checkpoint e atualizar o GitHub com a versão enxuta validada.
+- [x] Reexecutar check, testes, build e teste funcional do CTA/formulário após a checagem do runtime do `dotenv`.
