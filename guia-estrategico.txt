@@ -1,0 +1,735 @@
+                                                                             ESTRATÉGIA DE TRÁFEGO PAGO • NEGÓCIOS LOCAIS
+
+
+
+
+GUIA PRÁTICO
+
+
+
+Estratégia de Tráfego Pago
+para Negócios Locais
+Como estruturar, precificar, vender e operar o serviço do zero em Camboriú/SC
+
+
+
+O que este guia entrega
+• Posicionamento e oferta principal para comércios locais
+• Atribuições do gestor de tráfego no dia a dia
+• Implantação (setup), gestão recorrente e limites de escopo
+• Preços sugeridos para tráfego, criativos, landing pages e sites
+• Pacotes comerciais prontos para apresentar ao cliente
+• Processo de venda, onboarding, lançamento e acompanhamento
+• Métricas, relatórios, upsells e plano de crescimento da operação
+
+
+
+Versão 1.1 • Agosto de 2026
+
+
+
+
+                                        Guia operacional e comercial • Camboriú/SC | 1
+                                                                               ESTRATÉGIA DE TRÁFEGO PAGO • NEGÓCIOS LOCAIS
+
+ 1. O modelo de negócio
+ O caminho mais simples é usar o tráfego pago como porta de entrada e transformar os demais serviços digitais
+ em adicionais. Assim, você mantém uma oferta fácil de entender e aumenta o ticket conforme a necessidade real
+ de cada comércio.
+
+  POSICIONAMENTO RECOMENDADO
+  “Criamos e gerenciamos campanhas no Instagram, Facebook e Google para gerar mais contatos, agendamentos e
+  clientes para negócios locais.”
+
+
+
+ A lógica comercial
+        Entrada: gestão de tráfego
+   1
+        O cliente chega procurando anúncios. Você vende a gestão como serviço principal.
+
+        Diagnóstico: o que falta para a campanha funcionar?
+   2
+        Você identifica se o cliente precisa de criativos, landing page, site, rastreamento ou Google Ads.
+
+        Upsells: resolver gargalos específicos
+   3
+        Só ofereça o adicional quando ele resolver um problema real da operação.
+
+        Recorrência: manter a gestão mensal
+   4    O tráfego gera receita recorrente. Site e implantação geram receita de projeto; criativos podem ser
+        recorrentes.
+
+
+ O que NÃO fazer no anúncio
+ Evite anunciar “tráfego + site + design + social media + identidade visual + tudo digital”. Isso enfraquece a
+ percepção de especialização. A comunicação externa deve ser simples; a esteira de serviços aparece depois, na
+ conversa comercial.
+
+
+ 2. Atribuições do gestor de tráfego
+ O papel do gestor é transformar investimento em mídia em oportunidades comerciais mensuráveis. Para negócios
+ locais, isso significa acompanhar não apenas cliques, mas também conversas, agendamentos, visitas e vendas.
+
+ Rotina diária
+• Verificar se as campanhas estão ativas e gastando corretamente.
+• Checar anomalias: queda brusca de resultados, aumento de custo, reprovações ou problemas de pagamento.
+• Acompanhar custo por lead, conversa ou ação principal.
+• Observar CTR, CPC, CPM, frequência e distribuição do orçamento.
+• Evitar alterações desnecessárias: gestão boa não é “mexer todo dia”, e sim agir quando os dados justificam.
+
+ Rotina 2 a 3 vezes por semana
+• Comparar criativos, públicos, campanhas e posicionamentos.
+• Pausar anúncios claramente fracos e redistribuir orçamento.
+• Testar novas abordagens, ofertas e variações criativas.
+• Avaliar saturação e necessidade de novos materiais.
+• Revisar qualidade dos leads com base no retorno do cliente.
+
+
+
+                                          Guia operacional e comercial • Camboriú/SC | 2
+                                                                                  ESTRATÉGIA DE TRÁFEGO PAGO • NEGÓCIOS LOCAIS
+
+ Rotina semanal
+• Perguntar ao cliente quantos leads foram atendidos e quantos viraram agendamentos/vendas.
+• Identificar objeções recorrentes no WhatsApp.
+• Ajustar campanha de acordo com horários ociosos, serviços prioritários ou estoque.
+• Registrar decisões e próximos testes.
+
+ Rotina mensal
+• Fechar os indicadores do período.
+• Apresentar resultados de forma simples e comercial.
+• Definir objetivo e oferta do próximo mês.
+• Planejar renovação de criativos.
+• Revisar orçamento e oportunidade de expansão para Google Ads ou nova campanha.
+
+  REGRA DE OURO
+  Para comércio local, “40 conversas por R$ 8” não é o resultado final. O que importa é descobrir quantas dessas
+  conversas viraram agendamentos ou vendas.
+
+
+
+
+ 3. Escopo: o que está e o que não está incluso
+ Separar o escopo é essencial para proteger margem, tempo e expectativa. O cliente precisa entender que gestão
+ de tráfego, criação, atendimento e desenvolvimento são serviços diferentes.
+
+                    GESTÃO DE TRÁFEGO INCLUI                                     NÃO INCLUI AUTOMATICAMENTE
+
+       Estratégia e planejamento de mídia                                    Responder WhatsApp ou vender pelo cliente
+
+       Criação e configuração de campanhas                                        Social media e calendário orgânico
+
+       Segmentação e públicos                                                    Captação presencial de vídeos/fotos
+
+       Monitoramento e otimização                                                     Edição ilimitada de vídeos
+
+       Testes e remarketing                                                     Desenvolvimento de site/landing page
+
+       Relatórios e análise                                                   CRM, automação e treinamento comercial
+
+       Orientação sobre oferta/criativos                                              Identidade visual completa
+
+
+
+ Como explicar ao cliente
+  SCRIPT SIMPLES
+  “A gestão de tráfego cuida da estratégia, configuração, acompanhamento e otimização das campanhas. Se você
+  também precisar que a gente produza as artes, vídeos ou a página de destino, esses serviços podem ser contratados
+  separadamente.”
+
+
+
+
+ 4. Implantação e configuração inicial (setup)
+ O setup é o trabalho concentrado do início do projeto. Ele é cobrado uma única vez porque o primeiro mês
+ normalmente exige mais configuração e diagnóstico do que a gestão recorrente.
+• Análise inicial do negócio, serviços, ticket e região atendida.
+• Definição do objetivo principal: WhatsApp, ligação, formulário, site, agendamento ou visita.
+
+                                             Guia operacional e comercial • Camboriú/SC | 3
+                                                                                     ESTRATÉGIA DE TRÁFEGO PAGO • NEGÓCIOS LOCAIS
+• Criação/revisão de Business Manager e conta de anúncios.
+• Conexão de Instagram, Facebook e forma de pagamento.
+• Pixel, Tag, eventos e conversões quando houver site.
+• Integração com WhatsApp e/ou página de destino.
+• Criação de públicos e estrutura inicial de campanhas.
+• Configuração de remarketing quando aplicável.
+• Revisão dos primeiros criativos e copies.
+• Organização de nomenclaturas e checklist de lançamento.
+
+  NOME COMERCIAL
+  Na proposta, prefira “Implantação e configuração inicial” em vez de apenas “setup”. É mais claro para quem não
+  domina termos de marketing.
+
+
+ • Auditoria e configuração inicial do Perfil da Empresa no Google, quando esse serviço for contratado ou estiver
+ incluído no pacote.
+
+
+ 5. Estrutura de preços sugerida
+ Os valores abaixo são uma referência de partida para uma operação nova atendendo pequenos e médios
+ comércios locais. Ajuste conforme complexidade, demanda, maturidade da conta, volume de campanhas e prova
+ de resultado.
+
+                                SERVIÇO                                 PREÇO DE PARTIDA                        MODELO
+
+        Implantação/configuração inicial                                     R$ 500 - 700                       Uma vez
+
+        Gestão Meta Ads                                                     R$ 900 - 1.200                       Mensal
+
+        Gestão Google Ads                                                   R$ 900 - 1.200                       Mensal
+
+        Meta + Google                                                      R$ 1.500 - 1.900                      Mensal
+
+        4 criativos estáticos                                                R$ 350 - 500                        Pacote
+
+        8 criativos estáticos                                                R$ 600 - 800                        Pacote
+
+        4 vídeos editados*                                                   R$ 500 - 800                        Pacote
+
+        8 vídeos editados*                                                  R$ 900 - 1.300                       Pacote
+
+        Landing page                                                       R$ 1.200 - 2.000                      Projeto
+
+        Site institucional simples                                         R$ 2.000 - 3.500                      Projeto
+
+        Manutenção de site                                                   R$ 150 - 300                        Mensal
+        Configuração do Perfil da Empresa no Google                 R$ 397 - 597                     Uma vez
+        Gestão contínua do Perfil da Empresa*                       R$ 297 - 497                     Mensal
+
+ *Valores de edição considerando, em regra, que o cliente fornece as gravações. Captação presencial deve ser orçada à parte.
+ *Gestão contínua do Perfil da Empresa é opcional e pode envolver atualizações, fotos, serviços e acompanhamento de avaliações. A
+ configuração inicial pode ser vendida sem mensalidade.
+
+
+
+
+                                                Guia operacional e comercial • Camboriú/SC | 4
+                                                                                ESTRATÉGIA DE TRÁFEGO PAGO • NEGÓCIOS LOCAIS
+
+Tabela comercial enxuta para começar
+                                      ITEM                                                     VALOR SUGERIDO
+
+      Implantação inicial                                                                             R$ 597
+
+      Gestão Meta Ads                                                                              R$ 997/mês
+
+      Gestão Google Ads                                                                 R$ 997/mês
+      Gestão Meta + Google                                                                        R$ 1.697/mês
+
+      Perfil da Empresa no Google                                                       R$ 497 (configuração inicial)
+      Pacote adicional de criativos                                                           a partir de R$ 500/mês
+
+      Landing page                                                                                   R$ 1.497
+
+      Site institucional                                                                        a partir de R$ 2.497
+
+      Manutenção de site                                                                           R$ 197/mês
+
+
+
+VERBA DE MÍDIA
+A verba de anúncios não é sua mensalidade. O cliente deve pagar Meta/Google diretamente. Exemplo: R$ 997 de
+gestão + R$ 1.000 de mídia = custo total de R$ 1.997, sendo R$ 997 sua receita.
+
+
+
+Por que não cobrar apenas percentual da verba no começo?
+Se um comércio investir R$ 1.000 e você cobrar 20%, sua receita seria R$ 200. Para contas pequenas, isso não
+remunera adequadamente o trabalho. Use uma mensalidade mínima fixa; percentual pode ser discutido quando a
+verba crescer bastante.
+
+
+6. Pacotes comerciais prontos
+Você pode apresentar três níveis. A ideia não é obrigar o cliente a contratar tudo, e sim facilitar a decisão e criar
+uma opção intermediária naturalmente atraente.
+
+                                                  GESTÃO                   AQUISIÇÃO LOCAL            PERFORMANCE LOCAL
+
+     Preço sugerido                              R$ 997/mês                   R$ 1.497/mês                 R$ 1.997/mês
+
+     Meta Ads                                         ✓                             ✓                            ✓
+
+     Google Ads                                       -                             -                            ✓
+
+                                                                                                    Configuração inicial
+     Perfil da Empresa no Google       -                              -
+                                                                                                    inclusa
+     Monitoramento/otimização                         ✓                             ✓                            ✓
+
+     Relatório                                        ✓                             ✓                            ✓
+
+     Copy de anúncios                                 ✓                             ✓                            ✓
+
+     Criativos                                 Cliente fornece                    6/mês                         8/mês
+
+     Reunião estratégica                              -                             ✓                            ✓
+
+     Implantação inicial                           R$ 597                        R$ 597                        R$ 597
+
+
+
+
+                                           Guia operacional e comercial • Camboriú/SC | 5
+                                                                              ESTRATÉGIA DE TRÁFEGO PAGO • NEGÓCIOS LOCAIS
+
+ Plano 1 - Gestão
+ Ideal para empresas que já possuem criativos ou equipe interna. Você vende competência de mídia sem assumir
+ produção.
+
+ Plano 2 - Aquisição Local
+ Tende a ser a opção mais fácil de vender para pequenos comércios porque resolve tráfego + material básico de
+ anúncio no mesmo fornecedor.
+
+ Plano 3 - Performance Local
+ Indicado para negócios com maior capacidade de investimento e necessidade de captar demanda tanto em redes
+ sociais quanto em busca ativa no Google. A configuração inicial do Perfil da Empresa no Google entra como parte
+ da presença local desse plano.
+
+  IMPORTANTE
+  Defina exatamente o que é “1 criativo”, quantas revisões existem e se o cliente envia o material bruto. Nunca use
+  “criativos ilimitados” em proposta inicial.
+
+
+
+
+ 7. Serviços adicionais: criativos, Perfil da Empresa no
+ Google, site e landing page
+ O gestor deve orientar o que precisa ser produzido, mas não precisa absorver produção ilimitada dentro da
+ mensalidade. Os adicionais são vendidos conforme o gargalo do cliente.
+
+ Criativos
+• Pacote de artes estáticas para teste de ofertas e mensagens.
+• Edição de vídeos curtos com material fornecido pelo cliente.
+• Roteiros simples para o cliente gravar no estabelecimento.
+• Captação presencial, quando você tiver estrutura, cobrada separadamente.
+
+ Landing page
+ Venda quando o cliente precisa de uma página única orientada para conversão: serviço, prova, localização,
+ WhatsApp, formulário e rastreamento. Não confunda landing page com site institucional completo.
+
+ Site institucional
+ Venda como projeto separado. Pode incluir Home, Sobre, Serviços, Contato, WhatsApp, mapa, versão mobile e
+ configuração básica de rastreamento. Hospedagem, domínio, manutenção, integrações específicas e conteúdo
+ devem estar claramente descritos no orçamento.
+
+  Tráfego traz a oportunidade. O Perfil da Empresa fortalece presença e confiança local. Criativo melhora a
+  mensagem. Landing page melhora conversão. Site melhora presença e credibilidade. Você vende cada camada
+  quando ela tem função concreta.
+  Tráfego traz a oportunidade. Criativo melhora a mensagem. Landing page melhora conversão. Site melhora presença
+  e credibilidade. Você vende cada camada quando ela tem função concreta.
+
+
+
+ Perfil da Empresa no Google (Google Maps)
+ Pode ser vendido como implantação avulsa ou incluído em um pacote mais completo. O objetivo é deixar o
+ negócio corretamente apresentado nas buscas locais e no Google Maps, com informações consistentes e uma
+ base pronta para gerar confiança e receber procura orgânica.
+                                         Guia operacional e comercial • Camboriú/SC | 6
+                                                                             ESTRATÉGIA DE TRÁFEGO PAGO • NEGÓCIOS LOCAIS
+• Criar ou reivindicar o perfil e organizar a propriedade/acesso.
+• Definir categoria principal e categorias complementares coerentes.
+• Configurar nome, telefone, endereço ou área atendida, horário e site.
+• Cadastrar serviços e informações essenciais do negócio.
+• Organizar fotos iniciais e revisar a apresentação do perfil.
+• Orientar o cliente sobre processo de avaliações e boas práticas de resposta.
+• Cobrança sugerida: R$ 397 - 597 pela configuração inicial.
+A configuração inicial não inclui, automaticamente, gestão mensal de avaliações, atualização frequente de fotos,
+publicações ou manutenção contínua. Se o cliente quiser esse acompanhamento, venda como serviço recorrente
+separado.
+
+
+
+
+                                        Guia operacional e comercial • Camboriú/SC | 7
+                                                                               ESTRATÉGIA DE TRÁFEGO PAGO • NEGÓCIOS LOCAIS
+
+
+ 8. Processo comercial: do lead ao contrato
+        Prospecção
+  1
+        Anúncio, WhatsApp, indicação, visita comercial, networking ou prospecção ativa.
+
+        Conversa inicial
+  2
+        Entenda o tipo de negócio, objetivo, ticket médio, região e histórico de anúncios.
+
+        Diagnóstico
+  3     Descubra o principal gargalo: falta de demanda, oferta fraca, criativos, atendimento, site ou
+        rastreamento.
+
+        Proposta
+  4     Apresente apenas o que resolve o problema identificado. Separe honorário, implantação, adicionais e
+        verba de mídia.
+
+        Contrato e pagamento
+  5
+        Formalize escopo, datas, limites de entrega, responsabilidades e vencimento.
+
+        Onboarding
+  6
+        Colete acessos, materiais, informações comerciais e defina o canal de comunicação.
+
+        Implantação e lançamento
+  7
+        Configure a estrutura, revise tudo e coloque a primeira campanha no ar.
+
+
+ 9. Diagnóstico: perguntas para a primeira reunião
+• Qual produto ou serviço vocês mais querem vender agora?
+• Qual é o ticket médio e a margem aproximada?
+• Qual área geográfica vocês atendem?
+• Hoje os clientes chegam por onde?
+• Já anunciaram? O que aconteceu?
+• Vocês têm Instagram, Facebook, site e Perfil da Empresa no Google? Ele está verificado e atualizado?
+• Quem responde os leads no WhatsApp e em quanto tempo?
+• Quantos novos clientes conseguem atender por semana?
+• Existe promoção, primeira consulta, orçamento ou oferta que possamos anunciar?
+• Vocês têm fotos e vídeos bons do negócio?
+• Existe algum serviço com horário ocioso ou capacidade sobrando?
+• Como vocês registram se o lead virou venda?
+
+  OBJETIVO DA REUNIÃO
+  Você não precisa “dar aula de Meta Ads”. Precisa entender o negócio o suficiente para montar uma proposta
+  orientada a resultado e saber se existe estrutura para atender os leads.
+
+
+
+
+                                          Guia operacional e comercial • Camboriú/SC | 8
+                                                                                ESTRATÉGIA DE TRÁFEGO PAGO • NEGÓCIOS LOCAIS
+
+
+ 10. Checklist de onboarding
+                                           ACESSOS / INFORMAÇÕES                                              STATUS
+
+        Página do Facebook                                                                                      □
+
+        Instagram                                                                                               □
+
+        Business Manager                                                                                        □
+
+        Conta de anúncios                                                                                       □
+
+        Forma de pagamento                                                                                      □
+
+        WhatsApp comercial                                                                                      □
+
+        Site/landing page                                                                                       □
+
+        Perfil da Empresa no Google (propriedade/acesso)                                                  □
+        Google Ads (se aplicável)                                                                               □
+
+        Google Analytics/Tag Manager (se aplicável)                                                             □
+
+        Logo e identidade visual                                                                                □
+
+        Fotos e vídeos disponíveis                                                                              □
+
+        Serviços, preços e diferenciais                                                                         □
+
+        Horário de atendimento                                                                                  □
+
+        Região atendida                                                                                         □
+
+        Responsável por responder leads                                                                         □
+
+        Políticas/restrições do segmento                                                                        □
+
+
+
+ O que documentar antes do lançamento
+• Objetivo principal da campanha.
+• Oferta e CTA.
+• Orçamento diário/mensal aprovado.
+• Região e público.
+• Destino do lead.
+• Quem acompanha vendas.
+• Critério de sucesso do primeiro mês.
+
+
+ 11. Estrutura inicial de campanha
+ A estrutura depende do negócio, mas o raciocínio deve ser simples: uma campanha precisa ter um objetivo
+ comercial claro, criativos coerentes e uma forma de medir o que acontece depois do clique.
+
+        Objetivo
+   1
+        WhatsApp, formulário, ligação, conversão em página ou busca no Google.
+
+        Oferta
+   2
+        Uma mensagem específica tende a ser mais forte que “conheça nossa empresa”.
+
+
+
+                                           Guia operacional e comercial • Camboriú/SC | 9
+                                                                              ESTRATÉGIA DE TRÁFEGO PAGO • NEGÓCIOS LOCAIS
+
+        Segmentação local
+   3
+        Cidade, bairros, raio ou região compatível com o deslocamento e atendimento do comércio.
+
+        Criativos
+   4
+        Teste diferentes ganchos, provas, demonstrações e chamadas, sem mudar tudo ao mesmo tempo.
+
+        Rastreamento
+   5
+        Registre conversas, leads, agendamentos e vendas sempre que possível.
+
+        Otimização
+   6
+        Tome decisões após volume de dados suficiente e com base no objetivo real da campanha.
+
+
+ Exemplos de CTA local
+• Agende pelo WhatsApp.
+• Peça seu orçamento.
+• Reserve seu horário.
+• Fale com nossa equipe.
+• Veja disponibilidade.
+• Como chegar / visite a loja.
+
+
+ 12. Métricas que realmente importam
+              CAMADA                      MÉTRICAS                                           PERGUNTA
+
+       Entrega                     CPM, alcance, frequência                 Estamos conseguindo aparecer para o público?
+
+       Interesse                    CTR, CPC, visualização                            O anúncio chama atenção?
+
+       Lead                       Conversas, formulários, CPL                      Estamos gerando oportunidades?
+
+       Comercial                  Agendamentos, orçamentos                            Os leads têm intenção real?
+
+       Receita                    Vendas, ticket, ROAS/retorno                        O dinheiro investido voltou?
+
+
+
+  RELATÓRIO BOM
+  O dono do comércio deve conseguir responder: quanto investimos, quantas oportunidades geramos, quantas viraram
+  clientes e qual foi o retorno aproximado.
+
+
+
+
+ 13. Comunicação e relatório
+ Evite transformar o cliente em operador de mídia. Traduza os números para impacto comercial e mantenha uma
+ rotina previsível de contato.
+
+ Modelo de atualização semanal
+  EXEMPLO
+  “Esta semana investimos R$ 350 e geramos 42 conversas, com custo médio de R$ 8,33. O anúncio A foi o melhor.
+  Preciso que vocês me confirmem quantos desses contatos agendaram para avaliarmos a qualidade dos leads.”
+
+
+
+
+                                        Guia operacional e comercial • Camboriú/SC | 10
+                                                                                     ESTRATÉGIA DE TRÁFEGO PAGO • NEGÓCIOS LOCAIS
+
+ Modelo de relatório mensal
+                                              INDICADOR                                                     RESULTADO
+
+          Investimento em mídia                                                                              R$ 1.500
+
+          Contatos no WhatsApp                                                                                    186
+
+          Custo por contato                                                                                   R$ 8,06
+
+          Agendamentos                                                                                            61
+
+          Clientes                                                                                                34
+
+          Receita atribuída                                                                                  R$ 8.900
+
+
+ Os números acima são apenas um exemplo de apresentação, não uma promessa de resultado.
+
+
+ 14. Como a conta fecha para você
+ O objetivo é construir receita recorrente sem depender apenas de projetos. A gestão mensal é a base;
+ implantação, site e criativos aumentam o faturamento por cliente.
+
+                   CENÁRIO                       GESTÃO                CRIATIVOS              PROJETOS                 FATURAMENTO
+
+    5 clientes básicos                            R$ 4.985                  -                       -                   R$ 4.985/mês
+
+    5 clientes + 3 criativos                      R$ 4.985              R$ 1.500                    -                   R$ 6.485/mês
+
+    10 clientes médios                           R$ 14.970               incluído                   -                   R$ 14.970/mês
+
+    Mês com 2 sites                              R$ 14.970               incluído                R$ 4.994                 R$ 19.964
+
+
+ Exemplos meramente ilustrativos, sem considerar impostos, custos, terceirização, ferramentas ou inadimplência.
+
+
+ 15. Regras comerciais que protegem sua operação
+• Deixe a verba de mídia fora do seu honorário.
+• Defina quantidade de criativos e revisões.
+• Defina prazo de entrega de sites e o que depende do cliente.
+• Defina quem fornece textos, fotos, vídeos, logo e acessos.
+• Não garanta número de vendas; garanta o trabalho e o processo contratado.
+• Descreva o canal e horário de suporte.
+• Defina vencimento, reajuste e política de atraso/cancelamento.
+• Se houver domínio, hospedagem ou ferramentas pagas, diga quem paga.
+• Inclua aprovação do cliente antes de ofertas sensíveis, preços ou promoções.
+• Registre alterações de escopo e cobre adicionais quando necessário.
+
+  CONTRATO
+  Use contrato escrito. As condições específicas devem ser revisadas de acordo com sua empresa e, quando
+  necessário, por profissional jurídico. Este guia é operacional/comercial, não aconselhamento jurídico.
+
+
+
+
+ 16. Plano de execução dos primeiros 30 dias
+               PERÍODO                        FOCO                                            ENTREGAS
+
+                                               Guia operacional e comercial • Camboriú/SC | 11
+                                                                            ESTRATÉGIA DE TRÁFEGO PAGO • NEGÓCIOS LOCAIS
+
+      Dias 1-3                Diagnóstico e acessos                   Briefing, contas, oferta, verba, materiais
+
+      Dias 4-7                    Implantação                Configuração, rastreamento, públicos, primeira estrutura
+
+      Semana 2                    Lançamento                 Campanhas no ar, validação de gasto e primeiros dados
+
+      Semana 3                    Aprendizado                Comparar anúncios, qualidade de leads, ajustar gargalos
+
+      Semana 4                    Consolidação                   Relatório, aprendizados e plano do próximo ciclo
+
+
+
+Critério de sucesso do primeiro mês
+O primeiro ciclo deve produzir dados úteis: custo de aquisição inicial, melhores mensagens, qualidade dos leads e
+capacidade de atendimento. Evite prometer que toda operação ficará “perfeita” em poucos dias.
+
+
+17. Como aumentar seus preços com o tempo
+A evolução de preço deve acompanhar prova, demanda, eficiência operacional e complexidade dos clientes.
+
+                FASE           GESTÃO META - EXEMPLO                                     QUANDO
+
+      Entrada                          R$ 997/mês                        Poucos cases e processos em construção
+
+      Validação                       R$ 1.297/mês                     3-5 clientes, rotina mais clara, primeiros cases
+
+      Consolidação                    R$ 1.497/mês                         Boa entrega, demanda e prova social
+
+      Especialização                 R$ 1.997+/mês                  Nichos, maior complexidade ou maior valor gerado
+
+
+
+PRÁTICA SAUDÁVEL
+Você pode manter clientes antigos em condições anteriores e aumentar o preço apenas para novos contratos, desde
+que isso faça sentido para sua operação e seus acordos.
+
+
+
+
+18. Scripts rápidos para usar na venda
+Explicar o serviço
+SCRIPT
+“Eu cuido da criação, configuração e otimização das campanhas para colocar sua empresa na frente de pessoas da
+região com potencial de comprar. A ideia é gerar contatos e acompanhar até entendermos o custo real por
+oportunidade e cliente.”
+
+
+
+Explicar os criativos
+SCRIPT
+“Se vocês já têm fotos, vídeos ou alguém que produz os anúncios, usamos esse material. Se não tiverem, eu também
+consigo incluir um pacote de criativos separado para alimentar as campanhas.”
+
+
+
+
+                                      Guia operacional e comercial • Camboriú/SC | 12
+                                                                               ESTRATÉGIA DE TRÁFEGO PAGO • NEGÓCIOS LOCAIS
+
+ Explicar a verba
+  SCRIPT
+  “Minha mensalidade é pelo gerenciamento. O investimento dos anúncios é separado e pago diretamente para a
+  plataforma. Assim vocês sabem exatamente quanto é mídia e quanto é serviço.”
+
+
+
+ Explicar o setup
+  SCRIPT
+  “No início existe uma implantação para organizar contas, acessos, rastreamento e montar a primeira estrutura de
+  campanhas. Essa configuração é cobrada apenas uma vez.”
+
+
+
+ Explicar o Perfil da Empresa no Google
+  SCRIPT
+  “O Perfil da Empresa no Google é a ficha que aparece nas buscas locais e no Maps. Posso configurar e otimizar essa
+  presença para sua empresa ficar com informações corretas e uma apresentação profissional. A configuração é uma
+  entrega inicial; manutenção contínua, se necessária, é contratada à parte.”
+
+
+ 19. Checklist final antes de prospectar
+• □ Tenho uma oferta simples de tráfego pago para negócios locais.
+• □ Tenho preço de implantação e mensalidade definidos.
+• □ Tenho limite claro para criativos e revisões.
+• □ Tenho orçamento separado para landing page e site.
+ • □ Tenho preço e escopo definidos para o Perfil da Empresa no Google.
+• □ Tenho uma proposta comercial padrão.
+• □ Tenho contrato padrão.
+• □ Tenho checklist de onboarding.
+• □ Tenho rotina semanal de acompanhamento.
+• □ Tenho modelo simples de relatório.
+• □ Sei perguntar ao cliente quantos leads viraram vendas.
+• □ Tenho um processo para pedir novos criativos.
+• □ Tenho regra clara para serviços adicionais.
+
+
+ 20. Plano de ação para começar em 7 dias
+ Use esta sequência para sair do planejamento e começar a prospectar com uma oferta organizada.
+
+            DIA                                                     AÇÃO
+
+       1                                   Fechar oferta, preços, implantação e limites de escopo.
+
+       2                               Preparar proposta comercial, contrato e checklist de onboarding.
+
+       3                               Criar uma apresentação curta e uma mensagem de prospecção.
+
+       4                                  Listar pelo menos 30 negócios locais com perfil adequado.
+
+       5                                     Iniciar contatos e marcar conversas de diagnóstico.
+
+
+
+                                         Guia operacional e comercial • Camboriú/SC | 13
+                                                                            ESTRATÉGIA DE TRÁFEGO PAGO • NEGÓCIOS LOCAIS
+
+      6                                  Fazer reuniões, enviar propostas e registrar objeções.
+
+      7                          Fazer follow-up e ajustar oferta com base no que o mercado respondeu.
+
+
+
+META INICIAL
+Seu primeiro objetivo não é escalar anúncios para dezenas de clientes. É fechar os primeiros contratos, executar bem,
+documentar resultados e transformar isso em prova para aumentar preço e previsibilidade.
+
+
+
+
+Resumo da estratégia
+Anuncie uma coisa simples: tráfego pago para negócios locais. Venda a gestão como serviço principal e escolha
+Meta, Google ou os dois conforme o diagnóstico. Mantenha a verba de mídia separada. Cobrar implantação faz
+sentido quando existe trabalho inicial de configuração. Criativos, Perfil da Empresa no Google, landing pages e
+sites entram como adicionais ou em planos superiores. No Performance Local, a configuração inicial do Perfil da
+Empresa no Google pode ser incluída para aumentar a percepção de valor. O objetivo é construir uma operação
+recorrente, com escopo controlado e foco no resultado comercial do cliente.
+
+
+
+
+                                      Guia operacional e comercial • Camboriú/SC | 14
+
