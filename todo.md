@@ -58,8 +58,10 @@
 - [x] Encurtar a jornada visual e textual até o botão do formulário.
 - [x] Reduzir menções técnicas, preços e detalhes de serviço que desviem o foco da dor.
 - [x] Validar copy, CTA único, formulário e responsividade.
-- [ ] Salvar checkpoint e atualizar o repositório GitHub.
+- [x] Salvar checkpoint e atualizar o repositório GitHub.
 
 - [x] Unificar todos os CTAs visíveis em uma única mensagem principal, mantendo todos apontando para o mesmo formulário.
 - [x] Reexecutar a validação funcional dos CTAs após a unificação.
-- [ ] Salvar checkpoint e sincronizar o GitHub depois da versão com CTA unificado.
+- [x] Salvar checkpoint e sincronizar o GitHub depois da versão com CTA unificado.
+- [x] Enviar a versão orientada à dor com CTA unificado para a branch main do GitHub e confirmar o commit remoto.
+- [x] Verificar via GitHub que o commit remoto corresponde ao checkpoint com CTA unificado.
