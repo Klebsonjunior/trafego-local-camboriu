@@ -27,11 +27,14 @@
 
 - [x] Incluir timestamp explícito no payload enviado ao backend.
 - [x] Exibir estado visível de carregamento enquanto o lead é enviado.
-- [ ] Testar manualmente o modal conversacional e todos os CTAs após a integração tRPC.
+- [x] Testar manualmente o modal conversacional e todos os CTAs após a integração tRPC.
 - [x] Executar e registrar uma checagem objetiva de contraste dos CTAs e campos do formulário.
-- [ ] Salvar novo checkpoint após as mudanças de leads/backend e atualizar o GitHub.
+- [x] Salvar novo checkpoint após as mudanças de leads/backend e atualizar o GitHub.
 
 - [x] Corrigir contraste do verde de CTA/preço para atingir leitura WCAG adequada sem alterar a paleta da marca.
 
 - [x] Reexecutar a checagem final de contraste com os valores aplicados e cobrir campos, labels, placeholders e foco do formulário.
 - [x] Medir explicitamente contraste de placeholder e pergunta/label visível do formulário com os valores finais do CSS.
+
+- [x] Validar os CTAs e a abertura do modal por inspeção visual e estrutura de eventos; automação CDP foi bloqueada pelo Chromium do ambiente.
+- [x] Validar etapas, consentimento e feedback por testes não destrutivos, build, screenshot mobile e endpoint negativo; submissão real não foi executada para não inserir lead fictício.
