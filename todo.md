@@ -75,9 +75,9 @@
 - [x] Fazer o CTA principal abrir diretamente o formulário conversacional.
 - [x] Garantir copy curta, clara e objetiva em desktop e mobile.
 - [x] Validar build, formulário e responsividade.
-- [ ] Salvar checkpoint e atualizar o repositório GitHub.
+- [x] Salvar checkpoint e atualizar o repositório GitHub.
 
 - [x] Validar visualmente a versão enxuta em desktop após as últimas remoções.
 - [x] Resolver ou explicar o erro de runtime relacionado a `dotenv` e repetir a validação final; o log era histórico e o servidor atual iniciou normalmente após a instalação.
-- [ ] Salvar novo checkpoint e atualizar o GitHub com a versão enxuta validada.
+- [x] Salvar novo checkpoint e atualizar o GitHub com a versão enxuta validada.
 - [x] Reexecutar check, testes, build e teste funcional do CTA/formulário após a checagem do runtime do `dotenv`.
