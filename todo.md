@@ -91,8 +91,8 @@
 - [x] Inserir sinais de autoridade e método sem inventar depoimentos, avaliações ou resultados.
 - [x] Manter a página compacta, com CTA dominante e formulário como próximo passo.
 - [x] Validar a copy em desktop e mobile, além do formulário e da build.
-- [ ] Salvar checkpoint e atualizar o repositório GitHub.
+- [x] Salvar checkpoint e atualizar o repositório GitHub.
 
 - [x] Validar visualmente a versão persuasiva em mobile após a última reescrita da copy.
 - [x] Reexecutar o teste funcional do CTA e do formulário após a última revisão da copy.
-- [ ] Salvar checkpoint e atualizar o GitHub depois da validação final da versão persuasiva.
+- [x] Salvar checkpoint e atualizar o GitHub depois da validação final da versão persuasiva.
