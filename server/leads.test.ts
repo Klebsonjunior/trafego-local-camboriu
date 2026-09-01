@@ -1,6 +1,6 @@
 import { describe, expect, it } from "vitest";
 import { appRouter } from "./routers";
-import { syncLeadToSupabase } from "./supabase";
+import { createLeadInSupabase } from "./supabase";
 import type { TrpcContext } from "./_core/context";
 
 function createPublicContext(): TrpcContext {
@@ -28,12 +28,12 @@ describe("leads.create", () => {
 });
 
 describe("supabase lead bridge", () => {
-  it("does not make an external request without server credentials", async () => {
+  it("throws a clear error when server credentials are missing (Supabase is required, not optional)", async () => {
     const originalUrl = process.env.SUPABASE_URL;
     const originalKey = process.env.SUPABASE_SERVICE_ROLE_KEY;
     delete process.env.SUPABASE_URL;
     delete process.env.SUPABASE_SERVICE_ROLE_KEY;
-    await expect(syncLeadToSupabase({} as never)).resolves.toBe(false);
+    await expect(createLeadInSupabase({} as never)).rejects.toThrow(/SUPABASE_URL/);
     if (originalUrl) process.env.SUPABASE_URL = originalUrl;
     if (originalKey) process.env.SUPABASE_SERVICE_ROLE_KEY = originalKey;
   });

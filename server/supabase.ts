@@ -20,7 +20,7 @@ export async function createLeadInSupabase(lead: InsertLead): Promise<{ id: numb
     );
   }
 
-  const response = await fetch(`${config.url}/rest/v1/leads`, {
+  const response = await fetch(`${config.url}/rest/v1/kriaat_hub_leads`, {
     method: "POST",
     headers: {
       apikey: config.serviceRoleKey,
