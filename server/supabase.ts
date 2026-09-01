@@ -1,4 +1,4 @@
-/* Kriaat Hub — ponte server-side opcional para sincronizar leads com uma tabela pública do Supabase. */
+/* Kriaat Hub — Supabase é o banco principal de leads (server-side only, service_role key). */
 import type { InsertLead } from "../drizzle/schema";
 
 function getSupabaseConfig() {
@@ -8,9 +8,17 @@ function getSupabaseConfig() {
   return { url, serviceRoleKey };
 }
 
-export async function syncLeadToSupabase(lead: InsertLead): Promise<boolean> {
+export function isSupabaseConfigured(): boolean {
+  return getSupabaseConfig() !== null;
+}
+
+export async function createLeadInSupabase(lead: InsertLead): Promise<{ id: number }> {
   const config = getSupabaseConfig();
-  if (!config) return false;
+  if (!config) {
+    throw new Error(
+      "Supabase não está configurado: defina SUPABASE_URL e SUPABASE_SERVICE_ROLE_KEY nas variáveis de ambiente."
+    );
+  }
 
   const response = await fetch(`${config.url}/rest/v1/leads`, {
     method: "POST",
@@ -18,7 +26,7 @@ export async function syncLeadToSupabase(lead: InsertLead): Promise<boolean> {
       apikey: config.serviceRoleKey,
       Authorization: `Bearer ${config.serviceRoleKey}`,
       "Content-Type": "application/json",
-      Prefer: "return=minimal",
+      Prefer: "return=representation",
     },
     body: JSON.stringify({
       name: lead.name,
@@ -41,8 +49,13 @@ export async function syncLeadToSupabase(lead: InsertLead): Promise<boolean> {
 
   if (!response.ok) {
     const detail = await response.text().catch(() => "");
-    throw new Error(`Supabase lead sync failed (${response.status}): ${detail.slice(0, 200)}`);
+    throw new Error(`Falha ao gravar lead no Supabase (${response.status}): ${detail.slice(0, 200)}`);
   }
 
-  return true;
+  const rows = (await response.json()) as Array<{ id: number }>;
+  const inserted = rows[0];
+  if (!inserted) {
+    throw new Error("Supabase não retornou o registro inserido.");
+  }
+  return { id: inserted.id };
 }

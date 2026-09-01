@@ -1,19 +1,24 @@
 # Integração de leads com Supabase
 
-A página já envia o formulário por `trpc.leads.create`. O servidor grava o lead na tabela interna `leads` e, quando as variáveis de ambiente estiverem configuradas, também sincroniza o mesmo registro no Supabase usando a REST API server-side.
+A página envia o formulário por `trpc.leads.create`. O servidor grava o lead **diretamente no Supabase**
+(tabela `public.leads`, projeto `txmkhulfgpkivcugggzf`) usando a REST API com a chave `service_role` — isso
+é obrigatório: sem `SUPABASE_URL` e `SUPABASE_SERVICE_ROLE_KEY` configuradas, o envio do formulário falha.
+
+Um banco MySQL (`DATABASE_URL`) é opcional e funciona só como espelho local, se você quiser manter uma cópia
+adicional. A ausência dele não impede o formulário de funcionar.
 
 ## Variáveis necessárias
 
-Configure no ambiente de desenvolvimento e produção:
-
 | Variável | Uso |
 |---|---|
-| `SUPABASE_URL` | URL do projeto Supabase, por exemplo `https://seu-projeto.supabase.co`. |
-| `SUPABASE_SERVICE_ROLE_KEY` | Chave server-side usada somente pelo backend para inserir leads. Nunca deve ser exposta ao frontend. |
+| `SUPABASE_URL` | URL do projeto Supabase: `https://txmkhulfgpkivcugggzf.supabase.co` |
+| `SUPABASE_SERVICE_ROLE_KEY` | Chave server-side usada somente pelo backend para inserir leads. Nunca deve ser exposta ao frontend. Pegue em Project Settings → API no painel do Supabase. |
+| `DATABASE_URL` | Opcional. Só se você quiser um espelho MySQL adicional. |
 
-## Tabela recomendada no Supabase
+## Tabela no Supabase
 
-Crie uma tabela `leads` com esta estrutura. A chave `service_role` deve ser mantida fora do navegador; as políticas RLS podem permanecer habilitadas para impedir acesso público direto.
+Já criada (RLS ativo, sem políticas públicas — só a `service_role`, usada exclusivamente no servidor, consegue
+ler ou escrever):
 
 ```sql
 create table public.leads (
@@ -21,7 +26,7 @@ create table public.leads (
   name text not null,
   phone text not null,
   business text not null,
-  city text not null,
+  city text not null default '',
   invests text not null,
   objective text not null,
   budget text not null,
@@ -38,8 +43,9 @@ create table public.leads (
 alter table public.leads enable row level security;
 ```
 
-Depois de configurar essas variáveis, a mesma submissão continuará funcionando mesmo se o Supabase estiver temporariamente indisponível: o lead já terá sido preservado no banco interno do projeto e o erro ficará registrado no log server-side.
-
 ## Campos capturados
 
-O chat coleta nome, WhatsApp, nome do negócio, cidade/região, experiência anterior com tráfego pago, objetivo principal e faixa de verba de mídia. Também registra origem da página, data de criação, consentimento e parâmetros UTM quando presentes na URL.
+O chat coleta nome, WhatsApp, nome do negócio, experiência anterior com tráfego pago, objetivo principal e
+faixa de verba de mídia — sem cidade/região, por escolha deliberada (a segmentação geográfica é feita no
+próprio anúncio, não precisa estar na página). Também registra origem da página, data de criação, consentimento
+e parâmetros UTM quando presentes na URL.

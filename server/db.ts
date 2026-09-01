@@ -2,7 +2,7 @@ import { eq } from "drizzle-orm";
 import { drizzle } from "drizzle-orm/mysql2";
 import { InsertLead, InsertUser, leads, users } from "../drizzle/schema";
 import { ENV } from './_core/env';
-import { syncLeadToSupabase } from './supabase';
+import { createLeadInSupabase } from './supabase';
 
 let _db: ReturnType<typeof drizzle> | null = null;
 
@@ -91,18 +91,20 @@ export async function getUserByOpenId(openId: string) {
 }
 
 export async function createLead(lead: InsertLead) {
+  // Supabase is the primary lead store — this must succeed or the request fails.
+  const { id } = await createLeadInSupabase(lead);
+
+  // MySQL (if configured) is a best-effort mirror; failures here never block the lead.
   const db = await getDb();
-  if (!db) {
-    throw new Error("Database is not available");
+  if (db) {
+    try {
+      await db.insert(leads).values(lead);
+    } catch (error) {
+      console.error("[Database] Local mirror insert failed; lead was preserved in Supabase:", error);
+    }
   }
 
-  const result = await db.insert(leads).values(lead);
-  try {
-    await syncLeadToSupabase(lead);
-  } catch (error) {
-    console.error("[Supabase] Lead sync failed; local lead was preserved:", error);
-  }
-  return { id: Number(result[0].insertId) };
+  return { id };
 }
 
 // TODO: add feature queries here as your schema grows.
