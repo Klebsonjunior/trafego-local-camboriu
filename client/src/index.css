@@ -125,3 +125,35 @@
 .new-footer { display: flex; align-items: center; justify-content: space-between; max-width: 1160px; margin: 0 auto; padding: 24px 32px; background: #14052B; color: rgba(247,246,250,.45); font-size: .72rem; }
 @media (max-width: 767px) { .new-hero { min-height: 720px; }.new-header { padding: 20px; }.new-header-link { font-size: .58rem; }.new-hero-content { padding: 82px 20px 50px; }.new-hero-content h1 { font-size: clamp(2.55rem, 13vw, 4rem); }.new-hero-copy { font-size: .92rem; }.new-proofline { font-size: .56rem; line-height: 1.8; }.new-hero-bottom { right: 20px; bottom: 20px; left: 20px; display: block; line-height: 1.6; }.new-hero-bottom span:last-child { display: block; margin-top: 4px; }.new-audience, .new-method, .new-problem { padding: 72px 20px; }.new-section-intro h2, .method-heading h2 { font-size: clamp(2.15rem, 10vw, 3.25rem); }.new-section-intro > p:last-child { margin: 25px 0 0; font-size: .92rem; }.audience-grid { display: block; margin-top: 48px; }.audience-grid > div, .audience-grid > div + div { min-height: auto; padding: 23px 0; border-right: 0; border-bottom: 1px solid rgba(20,5,43,.16); }.audience-grid > div:last-child { border-bottom: 0; }.audience-grid h3 { margin-top: 18px; }.problem-flow { display: block; margin-top: 48px; }.problem-flow > div, .problem-flow > div + div { min-height: 0; padding: 20px 0; }.problem-flow i { display: block; padding: 0 0 0 8px; transform: rotate(90deg); }.problem-flow strong { margin-top: 12px; }.problem-flow small { max-width: none; }.new-callout { margin-top: 32px; font-size: .9rem; }.method-list { display: block; margin-top: 48px; }.method-list > div, .method-list > div:nth-child(even) { grid-template-columns: 42px 1fr; padding: 22px 0; border-left: 0; }.method-list h3 { font-size: 1rem; }.method-note { font-size: .62rem; line-height: 1.7; }.new-final { padding: 78px 20px 82px; }.new-final h2 { font-size: clamp(2.25rem, 11vw, 3.6rem); }.new-final > p:not(.new-kicker) { font-size: .92rem; }.new-footer { display: block; padding: 22px 20px; }.new-footer > span { display: block; margin-top: 14px; } }
 @media (prefers-reduced-motion: reduce) { .new-primary, .new-header-link { transition: none; } }
+
+/* Ajuste de escala: leitura compacta e primeira dobra objetiva. */
+.new-hero { min-height: 650px; }
+.new-hero-content { max-width: 820px; padding-top: 78px; padding-bottom: 42px; }
+.new-hero-content h1 { max-width: 760px; margin-top: 20px; font-size: clamp(2.45rem, 5.3vw, 4.85rem); line-height: .98; }
+.new-hero-copy { max-width: 590px; margin-top: 20px; font-size: .94rem; line-height: 1.6; }
+.new-primary { min-height: 3rem; margin-top: 24px; padding: .7rem 1.05rem; font-size: .7rem; }
+.new-proofline { margin-top: 16px; font-size: .58rem; }
+.new-hero-bottom { bottom: 18px; padding-top: 10px; font-size: .56rem; }
+.new-audience, .new-method { padding-top: 78px; padding-bottom: 78px; }
+.new-problem { padding-top: 78px; padding-bottom: 72px; }
+.new-section-intro h2, .method-heading h2 { margin-top: 16px; font-size: clamp(2.05rem, 4vw, 3.8rem); }
+.new-section-intro > p:last-child { margin-top: 18px; font-size: .92rem; line-height: 1.6; }
+.audience-grid { margin-top: 52px; }
+.audience-grid > div { min-height: 180px; padding-top: 22px; padding-bottom: 22px; }
+.audience-grid h3 { margin-top: 22px; font-size: 1.05rem; }
+.audience-grid p { margin-top: 9px; font-size: .8rem; }
+.problem-flow { margin-top: 52px; }
+.problem-flow > div { min-height: 140px; padding-top: 20px; padding-bottom: 20px; }
+.problem-flow strong { margin-top: 16px; font-size: 1rem; }
+.problem-flow small { font-size: .7rem; }
+.new-callout { margin-top: 30px; padding-top: 10px; padding-bottom: 10px; font-size: .9rem; }
+.method-list { margin-top: 52px; }
+.method-list > div { padding-top: 21px; padding-bottom: 21px; }
+.method-list h3 { font-size: 1rem; }
+.method-list p { margin-top: 7px; font-size: .8rem; }
+.method-note { margin-top: 24px; font-size: .62rem; }
+.new-final { padding-top: 78px; padding-bottom: 82px; }
+.new-final h2 { margin-top: 18px; font-size: clamp(2.2rem, 4.5vw, 4.2rem); }
+.new-final > p:not(.new-kicker) { margin-top: 18px; font-size: .92rem; }
+.new-final .new-primary { margin-top: 24px; }
+@media (max-width: 767px) { .new-hero { min-height: 640px; }.new-hero-content { padding-top: 62px; padding-bottom: 36px; }.new-hero-content h1 { margin-top: 17px; font-size: clamp(2.35rem, 11.5vw, 3.5rem); }.new-hero-copy { margin-top: 17px; font-size: .88rem; }.new-audience, .new-method, .new-problem { padding-top: 62px; padding-bottom: 62px; }.new-section-intro h2, .method-heading h2 { font-size: clamp(2rem, 9.2vw, 3rem); }.audience-grid { margin-top: 38px; }.problem-flow { margin-top: 38px; }.new-final { padding-top: 64px; padding-bottom: 68px; } }
