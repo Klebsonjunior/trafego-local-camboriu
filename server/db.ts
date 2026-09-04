@@ -2,7 +2,7 @@ import { eq } from "drizzle-orm";
 import { drizzle } from "drizzle-orm/mysql2";
 import { InsertLead, InsertUser, leads, users } from "../drizzle/schema";
 import { ENV } from './_core/env';
-import { createLeadInSupabase } from './supabase';
+import { createLeadInSupabase, notifyLeadByEmail } from './supabase';
 
 let _db: ReturnType<typeof drizzle> | null = null;
 
@@ -93,6 +93,12 @@ export async function getUserByOpenId(openId: string) {
 export async function createLead(lead: InsertLead) {
   // Supabase is the primary lead store — this must succeed or the request fails.
   const { id } = await createLeadInSupabase(lead);
+
+  try {
+    await notifyLeadByEmail(lead);
+  } catch (error) {
+    console.error("[Supabase] Lead saved, but email notification failed:", error);
+  }
 
   // MySQL (if configured) is a best-effort mirror; failures here never block the lead.
   const db = await getDb();

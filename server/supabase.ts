@@ -59,3 +59,31 @@ export async function createLeadInSupabase(lead: InsertLead): Promise<{ id: numb
   }
   return { id: inserted.id };
 }
+
+export async function notifyLeadByEmail(lead: InsertLead): Promise<void> {
+  const config = getSupabaseConfig();
+  if (!config) return;
+
+  const response = await fetch(`${config.url}/functions/v1/notify-kriaat-lead`, {
+    method: "POST",
+    headers: {
+      apikey: config.serviceRoleKey,
+      Authorization: `Bearer ${config.serviceRoleKey}`,
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify({
+      name: lead.name,
+      phone: lead.phone,
+      business: lead.business,
+      objective: lead.objective,
+      invests: lead.invests,
+      budget: lead.budget,
+      page: lead.page,
+    }),
+  });
+
+  if (!response.ok) {
+    const detail = await response.text().catch(() => "");
+    throw new Error(`Falha ao enviar notificação do lead (${response.status}): ${detail.slice(0, 200)}`);
+  }
+}
