@@ -21,6 +21,7 @@ describe("leads.create", () => {
       city: "Camboriú",
       invests: "Ainda não",
       objective: "Receber mais conversas",
+      structures: "Nenhuma dessas",
       budget: "Até R$ 1.000",
       consent: true,
     })).rejects.toMatchObject({ code: "BAD_REQUEST" });

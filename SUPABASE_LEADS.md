@@ -45,7 +45,8 @@ alter table public.kriaat_hub_leads enable row level security;
 
 ## Campos capturados
 
-O chat coleta nome, WhatsApp, nome do negócio, experiência anterior com tráfego pago, objetivo principal e
-faixa de verba de mídia — sem cidade/região, por escolha deliberada (a segmentação geográfica é feita no
-próprio anúncio, não precisa estar na página). Também registra origem da página, data de criação, consentimento
-e parâmetros UTM quando presentes na URL.
+O chat coleta nome, WhatsApp, empresa e atividade, objetivo principal, situação atual de anúncios, estruturas
+disponíveis e faixa de verba de mídia — sem cidade/região, por escolha deliberada. A pergunta de estruturas
+aceita múltipla escolha; situação e estruturas são preservadas juntas no campo `invests` para manter
+compatibilidade com a tabela existente. Também registra origem da página, data de criação, consentimento e
+parâmetros UTM quando presentes na URL.
