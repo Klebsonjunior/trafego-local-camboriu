@@ -218,3 +218,8 @@
 .chat-continue { display: inline-flex; align-items: center; justify-content: center; gap: .45rem; width: 100%; margin-top: .8rem; border: 0; border-radius: 2px; background: #0B7D46; color: #fff; padding: .8rem .9rem; font-size: .82rem; font-weight: 800; }
 .chat-continue:disabled { cursor: not-allowed; opacity: .45; }
 .chat-investment-note { margin-top: .85rem; border-left: 2px solid #FFB000; padding: .55rem .7rem; color: rgba(20,5,43,.58); font-size: .7rem; line-height: 1.45; }
+
+
+/* CTA final: botões principais maiores para maior destaque e área de toque. */
+.new-primary { min-height: 3.65rem; padding: .95rem 1.45rem; font-size: .78rem; }
+@media (max-width: 767px) { .new-primary { width: 100%; min-height: 3.6rem; padding: .95rem 1.1rem; } }
